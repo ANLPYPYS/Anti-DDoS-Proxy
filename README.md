@@ -1,10 +1,7 @@
 # SkidZ-Proxy-Anti-DDoS
-Spaghetti code go brrrrrr
-
+Spaghetti code go brrrrrr \
+This Project is PlugNPlay
 
 # How To Use
-```
-This Project is PlugNPlay!
-Edit line "127" and edit the forward host!
+Edit line "127" and edit the forward host! \
 Then link your server path to "public/" and go!
-```
