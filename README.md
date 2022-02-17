@@ -7,7 +7,7 @@ remember to run it on an diffrent network.
 
 ## How To Use
 run `composer install` \
-edit line `127` and edit the forward host! \
+goto line `127` and edit the forward host! \
 hhen link your server path to `public/` and go!
 
 ## Screenshots
