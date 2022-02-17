@@ -1,5 +1,5 @@
 # Proxy Anti DDoS
-spaghetti code go brrrrrr \
+spaghetti code go brrrrrr
 
 ## Note
 if you use this as an anti ddos proxy \
@@ -12,5 +12,8 @@ hhen link your server path to `public/` and go!
 
 ## Screenshots
 ![LOL](https://i.ibb.co/T8Z8ZMD/grafik.png)
+
+
+
 
 #### this project is for fun only, do not use it in production
