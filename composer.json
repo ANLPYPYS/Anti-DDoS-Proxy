@@ -1,0 +1,6 @@
+{
+    "require": {
+        "athlon1600/php-proxy": "^5.2",
+        "gregwar/captcha": "^1.1"
+    }
+}
