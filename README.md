@@ -13,4 +13,4 @@ hhen link your server path to `public/` and go!
 ## Screenshots
 ![LOL](https://i.ibb.co/T8Z8ZMD/grafik.png)
 <br /><br />
-#### this project is for fun only, do not use it in production
+#### This project is for fun only, do not use it in production
