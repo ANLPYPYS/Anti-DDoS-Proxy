@@ -1,5 +1,5 @@
-# Proxy Anti DDoS
-spaghetti code go brrrrrr
+# Anti DDoS Proxy 
+A simple Proxy protection DDoS attacks (not for production)
 
 ## Note
 if you use this as an anti ddos proxy \
